@@ -20,6 +20,7 @@ RUN apk add --update --no-cache \
             curl \
             git \
             patch \
+            php5-bcmath \
             php5-cli \
             php5-curl \
             php5-ctype \

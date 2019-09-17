@@ -20,6 +20,7 @@ RUN apk -U upgrade && \
             git \
             patch \
             curl \
+            php7-bcmath \
             php7-ctype \
             php7-curl \
             php7-dom \
